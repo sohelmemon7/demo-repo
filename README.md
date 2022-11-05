@@ -1,3 +1,3 @@
 # Demo
 
-Some description has been changed
+Some description has been changed.
